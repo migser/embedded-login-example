@@ -129,6 +129,8 @@
 
 	function onLogin(identity) {
 		
+    console.console.log('Logado!!!!');
+    
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
 		var avatar = document.createElement('a'); 
