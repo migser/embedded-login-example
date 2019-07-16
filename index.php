@@ -129,7 +129,7 @@
 
 	function onLogin(identity) {
 		
-    console.console.log('Logado!!!!');
+    console.log('Logado!!!!');
     
 		var targetDiv = document.querySelector(SFIDWidget.config.target);	
 		
